@@ -1,22 +1,22 @@
-# Software Company Co., Ltd
-[Site-ChortCut]
+# Software Company Co., Ltd.
+Site-ChortCut
 [404 Error](https://www.404-error.com)
 Failed to Display the Website! [Reload](https://sites.google.com/view/softwate-company-co-ltd/home?authuser=0)
 
-# Company Author
-[Karman Majd]
+# Company Author.
+Karman Majd
 
-# Company Subjects
-[Software engineering and Apps]
+# Company Subjects.
+Software engineering and Apps
 
-# Company Location 
-[Rabat, Morroco]
+# Company Location.
+Rabat, Morroco
 
-# Company Sides
-[Commercial Engineering, and production,...]
+# Company Sides.
+Commercial Engineering, and production,...
 
-# Company Site Pages ChortCut
-[Company Site Content]
+# Company Site Pages ChortCut.
+Company Site Content
 [HOME](https://sites.google.com/view/softwate-company-co-ltd/home?authuser=0)
 [ABOUT US](https://sites.google.com/view/softwate-company-co-ltd/about-us?authuser=0)
 [CONTACT US](https://sites.google.com/view/softwate-company-co-ltd/contact?authuser=0)
