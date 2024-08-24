@@ -4,7 +4,6 @@
 **`🧑The Founder of The Company (C.E.O) : KarmanMajd`**
 **`🇲🇦 From Morocco ✅`**
 **`🇺🇸 American Corporation Project`**
-***
 
 # 🚀 INTRODUCTION
 
@@ -56,7 +55,19 @@ In essence, Software Company Co., Ltd is not just a tech company; it's a catalys
 **`💬 Assistance`**
 **`🔥 Blogs`**
 
-* ### 📄 Our company Platforms Summary
+* ### 🚉 Our company Platforms Summary
+
+**`📺 Youtube`**
+**`📷 Instagram`**
+**`↗️ Telegram`**
+**`🟩 Whatsapp`**
+**`⬛ Tiktok`**
+
+* ### 🧑‍🤝‍🧑 Our company Groups Summary
+
+**`🟩 Whatsapp`**
+**`↗️ Telegram`**
+
 #
 
 Welcome to Our COmpany! [See Our Graphical Updated Website](https://sites.google.com/view/software-company-co-ltd/home?authuser=0)
