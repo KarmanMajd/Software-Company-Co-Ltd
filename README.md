@@ -7,6 +7,8 @@
 
 # 🚀 INTRODUCTION
 
+Hi 👋 😊 Welcome to Our Company, I'm Glad To See you, and in our Company we welcome every new or ancient user 
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -68,6 +70,6 @@ In essence, Software Company Co., Ltd is not just a tech company; it's a catalys
 **`🟩 Whatsapp`**
 **`↗️ Telegram`**
 
-#
+# FOOTER 
 
 Welcome to Our COmpany! [See Our Graphical Updated Website](https://sites.google.com/view/software-company-co-ltd/home?authuser=0)
